@@ -1,13 +1,13 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                          HEADER                                 -->
+<!--                           HEADER                                -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Vusal%20Mammadov&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=.NET%20Backend%20Developer&descSize=20&descAlignY=60&descColor=7aa2f7" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=210&section=header&text=Vusal%20Mammadov&fontSize=54&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=.NET%20Backend%20Developer&descSize=20&descAlignY=60&descColor=7aa2f7" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Engineering+with+.NET;Clean+%26+Onion+Architecture;Designing+systems%2C+not+just+writing+code" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Backend+Engineering+with+.NET;Scalable%2C+maintainable%2C+performant+systems;Clean+Architecture+%C2%B7+ASP.NET+Core+%C2%B7+EF+Core" alt="typing"/>
 </a>
 
 <br/>
@@ -25,29 +25,28 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                        INTRODUCTION                             -->
+<!--                         INTRODUCTION                            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 ### `~` whoami
 
-A backend developer working in the .NET ecosystem, focused on building **scalable and maintainable** systems. My work goes beyond writing code — I analyze the problem, design the right architecture, and build for the long term.
+A backend developer focused on the .NET ecosystem, building **scalable, maintainable, and performant** systems on real projects. My approach is not only writing code — it is analyzing the problem, designing the right architecture, and creating long-term solutions.
 
-Currently building **Horis Geneve**, a multi-tier investment platform, while maintaining an open-source Onion Architecture boilerplate for .NET 9.
+Currently working with **ASP.NET Core Web API, MVC, Entity Framework, and Clean Architecture**, actively developing my own projects — including a modular management system and game-backend concepts.
 
-- 🏗️ &nbsp;Working with **Clean & Onion Architecture**, ASP.NET Core, and EF Core
-- 🔍 &nbsp;Deep-diving into concurrency, async internals, and system design
-- 🎯 &nbsp;Targeting a backend role in fintech / banking, and remote international work
+- 🏗️ &nbsp;Building with **Clean & Onion Architecture**, ASP.NET Core, and EF Core
+- 🎯 &nbsp;Aiming to become a strong backend engineer and work remotely at an international level
 - 📍 &nbsp;Baku, Azerbaijan
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       ENGINEERING PHILOSOPHY                    -->
+<!--                      ENGINEERING PHILOSOPHY                     -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 ### `~` engineering philosophy
 
-> Architecture is a series of trade-offs, not a checklist. A repository layer on top of EF Core is often ceremony — knowing *when not* to add abstraction matters as much as knowing the patterns themselves. I design layers that stay decoupled, entities that protect their own invariants, and cross-cutting concerns that live in one place.
+> My approach is not just writing code — it is analyzing the problem, designing the right architecture, and creating long-term solutions. I design layers that stay decoupled, entities that protect their own invariants, and cross-cutting concerns that live in one place.
 
 <br/>
 
@@ -68,7 +67,7 @@ A production-ready starting point for backend APIs. JWT auth, ASP.NET Identity w
 
 `Onion Architecture` `JWT` `EF Core` `Identity`
 
-[**→ View repository**](https://github.com/vusal016/OnionSetUp)
+[**→ View repository**](https://github.com/vusal016/Onion-SetUp)
 
 </td>
 <td width="50%" valign="top">
@@ -115,23 +114,23 @@ Cookie-based auth, role-based authorization, and an admin panel area built with 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                           TECH STACK                            -->
+<!--                            STACK                                -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 ### `~` stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,docker,postman,visualstudio,vscode&theme=dark" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,postman,visualstudio,vscode&theme=dark" alt="stack"/>
 </p>
 
 **Backend** &nbsp;·&nbsp; ASP.NET Core Web API · MVC · Entity Framework Core · SignalR
 **Auth** &nbsp;·&nbsp; JWT · ASP.NET Core Identity
-**Architecture** &nbsp;·&nbsp; Clean · Onion · SOLID · DDD · Dependency Injection · Middleware
+**Architecture** &nbsp;·&nbsp; Clean · Onion · SOLID · Dependency Injection · Middleware
 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                           ANALYTICS                             -->
+<!--                          ANALYTICS                              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 ### `~` github
@@ -150,7 +149,7 @@ Cookie-based auth, role-based authorization, and an admin panel area built with 
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                            CONTACT                              -->
+<!--                           CONTACT                               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">

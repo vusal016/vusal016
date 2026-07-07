@@ -1,59 +1,173 @@
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                          HEADER                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1a1f2e,100:512BD4&height=220&section=header&text=Vusal%20Mammadov&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=.NET%20Backend%20Developer&descSize=22&fontAlignY=42&descAlignY=68" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Vusal%20Mammadov&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=.NET%20Backend%20Developer&descSize=20&descAlignY=60&descColor=7aa2f7" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=512BD4&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+with+ASP.NET+Core;Onion+Architecture+%C2%B7+Clean+Architecture+%C2%B7+SOLID;Analyze+the+problem+first+%E2%80%94+then+write+the+code" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Engineering+with+.NET;Clean+%26+Onion+Architecture;Designing+systems%2C+not+just+writing+code" alt="typing"/>
+</a>
+
+<br/>
+
+<a href="https://linkedin.com/in/vusalmemmedov">
+  <img src="https://img.shields.io/badge/LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/>
+</a>
+<a href="mailto:mvusal316@gmail.com">
+  <img src="https://img.shields.io/badge/Email-24283b?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=vusal016&style=for-the-badge&color=414868&label=PROFILE+VIEWS" alt="views"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        INTRODUCTION                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `~` whoami
+
+A backend developer working in the .NET ecosystem, focused on building **scalable and maintainable** systems. My work goes beyond writing code — I analyze the problem, design the right architecture, and build for the long term.
+
+Currently building **Horis Geneve**, a multi-tier investment platform, while maintaining an open-source Onion Architecture boilerplate for .NET 9.
+
+- 🏗️ &nbsp;Working with **Clean & Onion Architecture**, ASP.NET Core, and EF Core
+- 🔍 &nbsp;Deep-diving into concurrency, async internals, and system design
+- 🎯 &nbsp;Targeting a backend role in fintech / banking, and remote international work
+- 📍 &nbsp;Baku, Azerbaijan
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       ENGINEERING PHILOSOPHY                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `~` engineering philosophy
+
+> Architecture is a series of trade-offs, not a checklist. A repository layer on top of EF Core is often ceremony — knowing *when not* to add abstraction matters as much as knowing the patterns themselves. I design layers that stay decoupled, entities that protect their own invariants, and cross-cutting concerns that live in one place.
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `~` featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔷 OnionSetUp
+**Onion Architecture boilerplate · .NET 9**
+
+A production-ready starting point for backend APIs. JWT auth, ASP.NET Identity with Guid keys, and a single `SaveChangesInterceptor` that handles both soft delete and audit tracking in one pass.
+
+`Onion Architecture` `JWT` `EF Core` `Identity`
+
+[**→ View repository**](https://github.com/vusal016/OnionSetUp)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔷 Horis Geneve
+**Multi-tier investment platform · in progress**
+
+A real-world freelance deliverable and primary portfolio piece. Role-based access, JWT authentication, and investment management built on Clean Architecture.
+
+`Clean Architecture` `ASP.NET Core` `SQL Server`
+
+[**→ Coming soon**](https://github.com/vusal016)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔷 VELITHRA
+**Management system · SignalR**
+
+A 5-module management system with real-time chat via SignalR, built on Clean/Onion Architecture.
+
+`SignalR` `Clean Architecture` `Real-time`
+
+[**→ View repository**](https://github.com/vusal016)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔷 AuthMVC
+**Authentication & authorization**
+
+Cookie-based auth, role-based authorization, and an admin panel area built with ASP.NET Core MVC.
+
+`ASP.NET MVC` `Identity` `RBAC`
+
+[**→ View repository**](https://github.com/vusal016)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                           TECH STACK                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `~` stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,docker,postman,visualstudio,vscode&theme=dark" alt="stack"/>
+</p>
+
+**Backend** &nbsp;·&nbsp; ASP.NET Core Web API · MVC · Entity Framework Core · SignalR
+**Auth** &nbsp;·&nbsp; JWT · ASP.NET Core Identity
+**Architecture** &nbsp;·&nbsp; Clean · Onion · SOLID · DDD · Dependency Injection · Middleware
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                           ANALYTICS                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+### `~` github
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vusal016&show_icons=true&hide_border=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vusal016&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&langs_count=6" alt="langs"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vusal016&hide_border=true&background=1a1b27&stroke=414868&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5" alt="streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vusal016&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="activity"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                            CONTACT                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### `~` let's connect
+
+Open to backend opportunities and remote collaboration.
+
+<a href="https://linkedin.com/in/vusalmemmedov">
+  <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=1a1b27" alt="linkedin"/>
+</a>
+<a href="mailto:mvusal316@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bb9af7?style=flat-square&logo=gmail&logoColor=1a1b27" alt="email"/>
+</a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/vusalmemmedov">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mvusal316@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Open%20to-Backend%20Opportunities-2EA44F?style=for-the-badge" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer" alt="footer"/>
 
 </div>
-
-## 🧭 About Me
-
-- 🎯 .NET Backend Developer focused on **scalable and maintainable** systems
-- 🧠 My approach: analyze the problem → design the architecture → build solutions that last
-- 🔨 Currently building **Horis Geneve** — a multi-tier partnership & investment platform (freelance)
-- 🧅 Author of **OnionSetUp** — a reusable Onion Architecture boilerplate for .NET 9
-- 📫 Reach me: **mvusal316@gmail.com**
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|:---|:---|
-| 💻 **Languages & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=for-the-badge) ![MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge) |
-| 🔌 **API & Communication** | ![REST](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge) ![SignalR](https://img.shields.io/badge/SignalR-1E90FF?style=for-the-badge) |
-| 🗄️ **Database & Data Access** | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge) ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-6E4B9E?style=for-the-badge) ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge) |
-| 🏛️ **Architecture & Design** | ![Onion](https://img.shields.io/badge/Onion_Architecture-2E4057?style=for-the-badge) ![Clean](https://img.shields.io/badge/Clean_Architecture-2E4057?style=for-the-badge) ![SOLID](https://img.shields.io/badge/SOLID-2E4057?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-2E4057?style=for-the-badge) ![N-Tier](https://img.shields.io/badge/N--Tier-2E4057?style=for-the-badge) |
-| 🔐 **Auth & Validation** | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Identity](https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=for-the-badge) |
-| 🌐 **Web Technologies** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| 🧰 **Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
-## 📂 Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| 🔒 **Horis Geneve** | Multi-tier partnership & investment platform — role-based access, tier-based commission engine, automated payouts | ASP.NET Core Web API · EF Core · SQL Server · JWT |
-| 🧅 [**OnionSetUp**](https://github.com/vusal016/OnionSetUp) | Reusable Onion Architecture boilerplate — JWT auth, global exception middleware, audit & soft-delete | .NET 9 · EF Core · Identity |
-| 🏢 [**VELITHRA**](https://github.com/vusal016/VELITHRA) | Modular management system — HR, Courses, Inventory, Tasks, real-time Chat | ASP.NET Core · SignalR · EF Core · SQL Server |
-| 🎓 [**University App**](https://github.com/vusal016/UniversityApp) | Clean Architecture demo — Generic Repository, Unit of Work | .NET 9 · EF Core |
-| 🔐 [**AuthMVC**](https://github.com/vusal016/AuthMVC) | Authentication & CRUD app — Identity, role-based authorization | ASP.NET MVC · ASP.NET Core Identity |
-
-> 🔒 *Horis Geneve is a private client engagement — source code is not publicly available.*
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vusal016&show_icons=true&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=512BD4&text_color=C9D1D9" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vusal016&layout=compact&hide_border=true&bg_color=0D1117&title_color=512BD4&text_color=C9D1D9" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0D1117&height=110&section=footer" width="100%"/>

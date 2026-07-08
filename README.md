@@ -1,105 +1,102 @@
-<svg viewBox="0 0 1600 480" width="1600" height="480" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0c0514"/>
-      <stop offset="45%" stop-color="#140a24"/>
-      <stop offset="100%" stop-color="#1b0b2e"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c9a0ff"/>
-      <stop offset="50%" stop-color="#9370DB"/>
-      <stop offset="100%" stop-color="#8A2BE2"/>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#68217A" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#8A2BE2"/>
-      <stop offset="70%" stop-color="#9370DB"/>
-      <stop offset="100%" stop-color="#68217A" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8A2BE2" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#68217A" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#68217A" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#241238"/>
-      <stop offset="100%" stop-color="#170a26"/>
-    </linearGradient>
-  </defs>
+<img src="./banner.svg" width="100%" alt="banner"/>
 
-  <!-- Background -->
-  <rect width="1600" height="480" fill="url(#bg)"/>
+<h1 align="center">Vusal Mammadov</h1>
+<h3 align="center">.NET Backend Developer</h3>
 
-  <!-- Ambient glows -->
-  <circle cx="1450" cy="60" r="360" fill="url(#glow1)"/>
-  <circle cx="120" cy="440" r="320" fill="url(#glow2)"/>
-  <circle cx="850" cy="-80" r="300" fill="url(#glow2)"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vusalmemmedov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mvusal316@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/vusal016"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-  <!-- Subtle grid -->
-  <g stroke="#9370DB" stroke-opacity="0.06" stroke-width="1">
-    <line x1="0" y1="120" x2="1600" y2="120"/>
-    <line x1="0" y1="240" x2="1600" y2="240"/>
-    <line x1="0" y1="360" x2="1600" y2="360"/>
-    <line x1="266" y1="0" x2="266" y2="480"/>
-    <line x1="533" y1="0" x2="533" y2="480"/>
-    <line x1="800" y1="0" x2="800" y2="480"/>
-    <line x1="1066" y1="0" x2="1066" y2="480"/>
-    <line x1="1333" y1="0" x2="1333" y2="480"/>
-  </g>
+---
 
-  <!-- Floating code particles -->
-  <g font-family="Consolas, Menlo, monospace" fill="#9370DB">
-    <text x="70" y="70" font-size="15" fill-opacity="0.14">public sealed class BackendEngineer : IDeveloper</text>
-    <text x="1090" y="420" font-size="14" fill-opacity="0.13">await app.RunAsync();</text>
-    <text x="960" y="90" font-size="14" fill-opacity="0.11">services.AddScoped&lt;IUnitOfWork, UnitOfWork&gt;();</text>
-    <text x="120" y="420" font-size="14" fill-opacity="0.12">dotnet build --configuration Release</text>
-    <text x="620" y="450" font-size="15" fill-opacity="0.10">{ "architecture": "onion" }</text>
-    <text x="1380" y="260" font-size="26" fill-opacity="0.14">{ }</text>
-    <text x="40" y="250" font-size="26" fill-opacity="0.12">&lt;/&gt;</text>
-    <text x="700" y="60" font-size="22" fill-opacity="0.10">;</text>
-  </g>
+## 🚀 About Me
 
-  <!-- Hexagon accents (C# logo inspired) -->
-  <g stroke="#8A2BE2" fill="none" stroke-width="1.5">
-    <polygon points="1500,330 1540,353 1540,399 1500,422 1460,399 1460,353" stroke-opacity="0.35"/>
-    <polygon points="1445,395 1473,411 1473,443 1445,459 1417,443 1417,411" stroke-opacity="0.2"/>
-    <polygon points="90,95 118,111 118,143 90,159 62,143 62,111" stroke-opacity="0.25"/>
-  </g>
-  <text x="1478" y="387" font-size="26" font-weight="700" fill="#9370DB" fill-opacity="0.7" font-family="Consolas, monospace">C#</text>
+I design and build robust, maintainable backend systems using **ASP.NET Core, C#, and SQL Server**, with a deliberate focus on architectural integrity and long-term code health. My work is grounded in **Onion Architecture** and layered design principles — applied not as templates, but as tools for managing complexity as requirements evolve. I'm currently building the backend of **Horis Geneve**, a multi-tier partnership and investment platform, as a freelance developer.
 
-  <!-- Left accent bar -->
-  <rect x="96" y="150" width="5" height="130" rx="2.5" fill="url(#nameGrad)"/>
+- 🌍 Based in Baku, Azerbaijan — open to **remote international opportunities**
+- 🗣️ Azerbaijani (Native) • Turkish (Fluent) • English (Intermediate)
 
-  <!-- Name & title -->
-  <text x="130" y="205" font-size="64" font-weight="800" fill="url(#nameGrad)" letter-spacing="2">VUSAL MAMMADOV</text>
-  <text x="132" y="252" font-size="26" font-weight="600" fill="#e8dcff" letter-spacing="6">.NET BACKEND DEVELOPER</text>
-  <text x="132" y="295" font-size="17" fill="#a893c9" font-family="Consolas, Menlo, monospace">Building scalable, maintainable systems with ASP.NET Core &#8226; Onion Architecture &#8226; SQL Server</text>
+---
 
-  <!-- Stat cards -->
-  <g>
-    <rect x="130" y="330" width="230" height="92" rx="14" fill="url(#cardGrad)" stroke="#8A2BE2" stroke-opacity="0.5" stroke-width="1.5"/>
-    <text x="152" y="372" font-size="30" font-weight="800" fill="#c9a0ff">30+</text>
-    <text x="152" y="400" font-size="15" fill="#a893c9" letter-spacing="1">PUBLIC REPOSITORIES</text>
+## 🛠️ Technologies & Tools
 
-    <rect x="380" y="330" width="230" height="92" rx="14" fill="url(#cardGrad)" stroke="#8A2BE2" stroke-opacity="0.5" stroke-width="1.5"/>
-    <text x="402" y="372" font-size="30" font-weight="800" fill="#c9a0ff">.NET 9</text>
-    <text x="402" y="400" font-size="15" fill="#a893c9" letter-spacing="1">C# &#8226; EF CORE &#8226; WEB API</text>
+**Programming Languages**
 
-    <rect x="630" y="330" width="230" height="92" rx="14" fill="url(#cardGrad)" stroke="#8A2BE2" stroke-opacity="0.5" stroke-width="1.5"/>
-    <text x="652" y="372" font-size="30" font-weight="800" fill="#c9a0ff">5+</text>
-    <text x="652" y="400" font-size="15" fill="#a893c9" letter-spacing="1">FEATURED PROJECTS</text>
+<img src="https://skillicons.dev/icons?i=cs,js,html,css&perline=8" alt="languages"/>
 
-    <rect x="880" y="330" width="230" height="92" rx="14" fill="url(#cardGrad)" stroke="#8A2BE2" stroke-opacity="0.5" stroke-width="1.5"/>
-    <text x="902" y="372" font-size="30" font-weight="800" fill="#c9a0ff">100%</text>
-    <text x="902" y="400" font-size="15" fill="#a893c9" letter-spacing="1">CLEAN ARCHITECTURE</text>
-  </g>
+**Backend**
 
-  <!-- Bottom gradient line -->
-  <rect x="0" y="474" width="1600" height="6" fill="url(#lineGrad)"/>
+<img src="https://skillicons.dev/icons?i=dotnet&perline=8" alt="backend"/>
 
-  <!-- Top thin line -->
-  <rect x="0" y="0" width="1600" height="3" fill="url(#lineGrad)" opacity="0.6"/>
-</svg>
+<img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square" alt="Web API"/> <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square" alt="MVC"/> <img src="https://img.shields.io/badge/SignalR-0078D4?style=flat-square" alt="SignalR"/> <img src="https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=flat-square" alt="Identity"/> <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/> <img src="https://img.shields.io/badge/RESTful_APIs-2088FF?style=flat-square" alt="REST"/>
+
+**Database & Data Access**
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square" alt="SQL Server"/> <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" alt="EF Core"/> <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square" alt="ADO.NET"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"/>
+
+**Architecture & Principles**
+
+<img src="https://img.shields.io/badge/OOP-6A5ACD?style=flat-square" alt="OOP"/> <img src="https://img.shields.io/badge/SOLID-6A5ACD?style=flat-square" alt="SOLID"/> <img src="https://img.shields.io/badge/N--Tier-6A5ACD?style=flat-square" alt="N-Tier"/> <img src="https://img.shields.io/badge/Clean_Architecture-6A5ACD?style=flat-square" alt="Clean Architecture"/> <img src="https://img.shields.io/badge/Onion_Architecture-6A5ACD?style=flat-square" alt="Onion Architecture"/> <img src="https://img.shields.io/badge/ACID-6A5ACD?style=flat-square" alt="ACID"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode&perline=8" alt="tools"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+
+---
+
+## 📂 My Projects
+
+### 💼 Freelance
+
+Real-world client work:
+
+* **Horis Geneve** — Multi-tier partnership and investment platform: role-based access control (sales representatives, investors), tier-based commission engine, user hierarchy management, automated payout processing *(private repository)* — `ASP.NET Core Web API` `EF Core` `SQL Server` `JWT`
+
+### ⚙️ Backend Projects
+
+RESTful APIs and server-side applications:
+
+* [**Onion-SetUp**](https://github.com/vusal016/Onion-SetUp) — Production-ready .NET 9 boilerplate: Onion Architecture, JWT auth with manual lockout, role management, FluentValidation, OpenAPI/Scalar — `C# + .NET 9 + SQL Server`
+* [**Consume With JWT + File Upload**](https://github.com/vusal016/Consume-With-Jwt-File-Upload) — API consumption with JWT flow and file upload handling — `C# + Web API + HttpClient`
+
+### 🏢 Modular Systems
+
+* [**VELITHRA**](https://github.com/vusal016/VELITHRA_MODULAR) — Multi-module management platform (HR, Courses, Inventory, Tasks, Chat) with real-time features — `ASP.NET Core Web API + SignalR + EF Core + RBAC`
+
+### 🏗️ MVC Projects
+
+Full-stack applications built with Model-View-Controller architecture:
+
+* [**AuthMVC**](https://github.com/vusal016/AuthMVC) — Register, Login, Profile management and Product CRUD with role-based access — `ASP.NET MVC + Identity + SQL Server`
+* [**Identity AdminLogin**](https://github.com/vusal016/Identity-AdminLogin) — Admin authentication system built on ASP.NET Core Identity — `ASP.NET MVC + Identity`
+
+### 🎓 Clean Architecture
+
+* [**University App**](https://github.com/vusal016/UniversityApp-Clean-Console) — Console application demonstrating layered architecture, Generic Repository, UoW and DDD principles — `C# + .NET 9 + EF Core`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vusal016&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=vusal016&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vusal016&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss,less" alt="top languages"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+* Email: [mvusal316@gmail.com](mailto:mvusal316@gmail.com)
+* LinkedIn: [Vusal Mammadov](https://www.linkedin.com/in/vusalmemmedov/)
+* GitHub: [vusal016](https://github.com/vusal016)

@@ -106,6 +106,8 @@ Modular Management System designed with **Clean Architecture**.
 
 ASP.NET Core Web API • EF Core • SQL Server • SignalR • JWT • Repository/UoW • AutoMapper • FluentValidation • React • TypeScript
 
+🔗 https://github.com/vusal016/VELITHRA_MODULAR
+
 ---
 
 ### 🧅 Onion-SetUp
@@ -129,6 +131,8 @@ Authentication and authorization system built with ASP.NET Core Identity.
 - Product CRUD
 - Profile Management
 
+🔗 https://github.com/vusal016/AuthMVC
+
 ---
 
 ### 🎓 University App
@@ -142,6 +146,8 @@ Educational project demonstrating software architecture concepts using **.NET 9*
 - Unit of Work
 - Domain-Driven Design
 - Entity Framework Core
+
+🔗 https://github.com/vusal016/UniversityApp-Clean-Console
 
 ---
 

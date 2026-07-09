@@ -151,6 +151,21 @@ Educational project demonstrating software architecture concepts using **.NET 9*
 
 ---
 
+### 📡 Consume With JWT + File Upload
+
+API consumption project demonstrating secure client-server communication with **JWT authentication** and file upload handling.
+
+**Concepts**
+
+- JWT Token Flow
+- API Consumption with HttpClient
+- File Upload Handling
+- Secure Request/Response Handling
+
+🔗 https://github.com/vusal016/Consume-With-Jwt-File-Upload
+
+---
+
 # 📚 Currently Learning
 
 - Advanced ASP.NET Core

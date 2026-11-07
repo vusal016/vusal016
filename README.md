@@ -104,16 +104,6 @@ Authentication and CRUD application with ASP.NET Core Identity, registration, lo
 **Tools:** Git, GitHub, Swagger, Postman, Docker  
 **Ways of working:** Agile/Scrum and AI-assisted development with ChatGPT, Claude and GitHub Copilot
 
-## Currently learning
-
-- Microservices and distributed systems
-- Docker and containerization
-- Azure cloud services
-- RabbitMQ and asynchronous messaging
-- Redis distributed caching
-- CQRS, event-driven architecture and Saga patterns
-- Testing, observability and production-ready API design
-
 ## Education
 
 ### Code Academy

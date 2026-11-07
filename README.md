@@ -1,125 +1,79 @@
 <div align="center">
 
 # Vusal Mammadov
+### .NET Backend Engineer · Systems & Architecture
 
-### .NET Backend Developer
+Building scalable, maintainable backend systems with **C#, .NET, ASP.NET Core, EF Core, and PostgreSQL**.  
+Focused on **Clean Architecture, Domain-Driven Design (DDD), CQRS, and Modular Monoliths**.
 
-I build robust, maintainable backend systems with **C#, ASP.NET Core, EF Core, SQL Server and PostgreSQL**.
-
-<p>
-<a href="https://www.linkedin.com/in/vusalmemmedov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mvusal316@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/vusal016"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vusalmemmedov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mvusal316@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vusal016"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
 
 ---
 
-## About me
+### ⚡ Engineering Focus
 
-Backend developer focused on **domain modeling, modularity and architectural integrity**. I turn business requirements into clear APIs and maintainable systems, from layered applications to Clean Architecture, CQRS and Modular Monoliths.
+- **Architecture First:** Designing systems with strict module boundaries, rich domain models, and decoupled business logic using **Clean/Onion Architecture**, **DDD**, and **Modular Monolith** patterns.
+- **Performance & Reliability:** Implementing distributed caching (**Redis**, **FusionCache**), read-optimized CQRS pipelines (**MediatR**), asynchronous in-process messaging, and structured exception handling.
+- **Current Focus:** Deepening expertise in **Microservices Architecture**, event-driven messaging, gRPC, and container orchestration.
+- 📍 Based in **Baku, Azerbaijan** · Open to Backend Engineer roles.
 
-- Based in **Baku, Azerbaijan**
-- Open to .NET backend developer opportunities
-- Experienced with RESTful APIs, authentication, databases and modular systems
-- Azerbaijani (native) · Turkish (fluent) · English (intermediate)
+---
 
-## Experience
-
-### Backend Development Intern · Software Village
-**August 2026 – October 2026**
-
-Worked on four real-world ASP.NET Core projects, progressing from DAL/BLL/API layering to Clean Architecture, CQRS and MediatR.
-
-- Built RESTful backend features with C#, ASP.NET Core and EF Core
-- Configured DbContext, data seeding and PostgreSQL integration with Npgsql
-- Implemented JWT access/refresh token flows and Identity security practices
-- Added FusionCache, pagination, AutoMapper and global exception middleware
-- Collaborated through Scrum ceremonies, sprint planning, reviews and iterative delivery
-- Used ChatGPT, Claude and GitHub Copilot to support debugging, review and architecture decisions
-
-## Featured projects
-
-### [E-Commerce Modular Monolith](https://github.com/vusal016/E-Commerce)
-**.NET 10 · PostgreSQL · Redis · Docker · Clean Architecture · DDD**
-
-Scalable retail platform divided into six isolated modules: **Catalog, Cart, Ordering, Promotions, Engagement and Identity**.
-
-- Enforced module boundaries through in-process Public API contracts
-- Built an asynchronous Event Bus with `System.Threading.Channels`
-- Designed CQRS pipelines with MediatR and a unified Result pattern
-- Added Redis cache-aside strategy and xUnit/NSubstitute tests
-- Used EF Core interceptors for metadata tracking and `ValueGenerated.Never`
-
-### [StreamVibe](https://github.com/vusal016/SoftwareVillageTask3)
-**20 August – 10 September 2026 · .NET 10 · PostgreSQL**
-
-Streaming platform API for catalog content, landing resources, authentication and subscriptions. Uses Onion/Clean Architecture, CQRS with MediatR, FusionCache, AutoMapper and global exception middleware.
-
-### [News API](https://github.com/vusal016/SoftwareVillageTask2)
-**10 – 16 August 2026 · .NET 9 · SQL Server**
-
-Read-optimized news API with cached and paginated article feeds, featured/breaking/live endpoints, N-Layer Architecture, read-only CQRS, Repository Pattern, rich domain entities and global exception handling.
-
-### [Weather API](https://github.com/vusal016/SoftwareVillageTask1)
-**7 – 11 August 2026 · .NET 9 · SQL Server**
-
-Weather dashboard API aggregating city, current weather and daily/hourly forecast data through a single endpoint. Built with layered Clean Architecture, Repository Pattern, dependency injection, AutoMapper and Swagger.
-
-### [VELITHRA](https://github.com/vusal016/VELITHRA_MODULAR)
-**2025 – 2026 · ASP.NET Core Web API · React · TypeScript**
-
-Modular management platform covering HR, Courses, Inventory, Tasks and real-time Chat with EF Core, SQL Server, SignalR, JWT, RBAC, Repository/Unit of Work, AutoMapper and FluentValidation.
-
-### [University App](https://github.com/vusal016/UniversityApp-Clean-Console)
-**18 – 19 May 2026 · .NET 9**
-
-Console application demonstrating layered architecture, Generic Repository, Unit of Work and Domain-Driven Design principles with EF Core.
-
-### [AuthMVC](https://github.com/vusal016/AuthMVC)
-**2026 · ASP.NET Core MVC**
-
-Authentication and CRUD application with ASP.NET Core Identity, registration, login, profile management, product CRUD and role-based access.
-
-## Technical skills
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,html,css,js,ts,react,git,github,docker,visualstudio,vscode&perline=7" alt="Technology stack" />
-<br />
-<img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,git,github,postman,visualstudio,vscode&perline=10" alt="Tech Stack" />
 </div>
 
-**Languages & frameworks:** C#, .NET, ASP.NET Core Web API, ASP.NET Core MVC  
-**API & communication:** RESTful API design, SignalR  
-**Data:** SQL, SQL Server, PostgreSQL, EF Core, ADO.NET, Redis  
-**Architecture:** OOP, SOLID, ACID, N-Tier, Clean Architecture, Onion Architecture, CQRS, MediatR, Modular Monolith, DDD, Event-Driven Architecture  
-**Security & reliability:** JWT, refresh tokens, ASP.NET Core Identity, PBKDF2/SHA512, validation, FusionCache, pagination, global exception handling  
-**Tools:** Git, GitHub, Swagger, Postman, Docker  
-**Ways of working:** Agile/Scrum and AI-assisted development with ChatGPT, Claude and GitHub Copilot
+<br />
 
-## Education
+| Category | Technologies & Practices |
+| :--- | :--- |
+| **Core & Frameworks** | C#, .NET (9 / 10), ASP.NET Core Web API, ASP.NET Core MVC, SignalR |
+| **Data & Caching** | PostgreSQL, Microsoft SQL Server, EF Core, ADO.NET, Redis, FusionCache |
+| **Architecture & Patterns** | Clean Architecture, Onion Architecture, Modular Monolith, DDD, CQRS, MediatR, Event-Driven, Result Pattern |
+| **Security & Quality** | JWT (Access/Refresh Flows), ASP.NET Core Identity, RBAC, FluentValidation, xUnit, NSubstitute |
+| **DevOps & Tools** | Docker, IIS, Git, GitHub, Swagger/OpenAPI, Postman |
 
-### Code Academy
-**Back-End Full Stack Development · Apr 2025 – Oct 2025**
+---
 
-C# and algorithms, OOP, SQL, EF Core, ASP.NET Core Web API, RESTful services, basic SOAP concepts, HTML/CSS/JavaScript, software development lifecycle and deployment basics.
+### 🚀 Featured Systems & Architecture
 
-### Lankaran State University
-**B.Sc. English Translation · 2019 – 2023**
+#### 📦 [E-Commerce — Modular Monolith Platform](https://github.com/vusal016/E-Commerce)
+`C#` `.NET 10` `PostgreSQL` `Redis` `Docker` `DDD` `CQRS`
+> Enterprise-grade retail backend structured into **6 isolated business modules** (*Catalog, Cart, Ordering, Promotions, Engagement, Identity*) with schema-level database isolation.
+- Enforced strict module boundaries via in-process Public API contracts and an asynchronous **Event Bus** built on `System.Threading.Channels`.
+- Engineered CQRS pipelines with **MediatR**, unified Result pattern, **Redis** cache-aside strategy, EF Core interceptors, and unit testing with **xUnit & NSubstitute**.
 
-## Contact
+#### 🎬 [StreamVibe — Streaming Platform API](https://github.com/vusal016/SoftwareVillageTask3)
+`C#` `.NET 10` `PostgreSQL` `Clean Architecture` `MediatR` `FusionCache`
+> High-throughput RESTful API handling media catalogs, subscription workflows, and secure user authentication.
+- Built on **Onion/Clean Architecture** and **CQRS**, leveraging **FusionCache** for low-latency data retrieval, JWT refresh token rotation, and global exception handling middleware.
 
-- **Email:** [mvusal316@gmail.com](mailto:mvusal316@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vusalmemmedov](https://www.linkedin.com/in/vusalmemmedov)
-- **GitHub:** [github.com/vusal016](https://github.com/vusal016)
+#### 🏢 [VELITHRA — Modular Enterprise Management](https://github.com/vusal016/VELITHRA_MODULAR)
+`ASP.NET Core Web API` `SQL Server` `EF Core` `SignalR` `JWT` `React/TS`
+> Multi-module management system covering HR, Inventory, Courses, Task Tracking, and real-time communication.
+- Implemented real-time messaging with **SignalR**, Role-Based Access Control (**RBAC**), Repository & Unit of Work patterns, and request validation via **FluentValidation**.
+
+#### 📰 [News API — Read-Optimized Content Engine](https://github.com/vusal016/SoftwareVillageTask2)
+`C#` `.NET 9` `SQL Server` `EF Core` `CQRS` `Caching`
+> High-read news portal backend designed for fast content delivery across breaking, live, and paginated article feeds.
+- Designed with **read-only CQRS queries**, rich domain entities, in-memory response caching, and custom pagination pipelines.
+
+---
+
+### 💼 Experience
+
+**Backend Development Intern** · **Software Village** *(Aug 2026 – Oct 2026)*
+- Delivered four production-style ASP.NET Core backends in an Agile/Scrum environment, evolving codebases from N-Tier architecture to **Clean Architecture, DDD, and CQRS**.
+- Architected database schemas with **EF Core & PostgreSQL (Npgsql)**, implemented **JWT/Identity** security flows, and optimized API response times using **FusionCache** and **Redis**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00C9FF&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00C9FF&height=100&section=footer" width="100%" alt="Footer" />
 </div>

@@ -1,305 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00C9FF&height=200&section=header&text=Vusal%20Mammadov&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+# Vusal Mammadov
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=512BD4&center=true&vCenter=true&width=800&lines=Designing+scalable+and+maintainable+backend+solutions;Building+enterprise-grade+APIs+with+clean+architecture;Crafting+production-ready+.NET+applications"/>
+### Backend Developer · C# · ASP.NET Core
+
+I build clean, maintainable and production-oriented backend systems with the .NET ecosystem.
 
 <p>
-<a href="https://www.linkedin.com/in/vusalmemmedov/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mvusal316@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vusal016">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/vusalmemmedov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mvusal316@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vusal016"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About me
 
-Backend developer focused on designing scalable, maintainable, and production-ready applications using **ASP.NET Core**, **C#**, **Entity Framework Core**, and **SQL Server**.
+I am a backend developer based in **Baku, Azerbaijan**, focused on building reliable APIs and modular applications with **C# and ASP.NET Core**. My work combines practical project development with continuous study of software architecture, distributed systems and cloud-native tools.
 
-My engineering approach is centered on building software that remains clean, extensible, and easy to evolve as requirements grow. I apply **Clean Architecture**, **Onion Architecture**, **CQRS**, SOLID principles, and domain-driven design tactics to ensure systems that can withstand changing requirements.
+- Currently building and improving .NET applications and backend projects
+- Interested in backend developer opportunities and remote teams
+- Comfortable working with REST APIs, authentication, databases and modular architecture
+- Languages: Azerbaijani (native), Turkish (fluent), English (intermediate)
 
-I have hands-on experience developing secure RESTful APIs, implementing authentication and authorization, integrating Entity Framework Core, and designing modular backend solutions with a strong emphasis on separation of concerns, dependency inversion, and testability.
-
-Currently working as a freelance backend developer on **Horis Geneve**, a multi-tier partnership and investment platform featuring role-based authorization, hierarchical user management, commission engine, and automated income distribution.
-
-- 📍 Baku, Azerbaijan
-- 💼 Open to Backend Developer opportunities
-- 🌍 Available for Remote & International teams
-- 🗣️ Azerbaijani (Native) • Turkish (Fluent) • English (Intermediate)
-
----
-
-# ⚙️ Technologies & Tools
+## Core stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio,vscode,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,html,css,js,ts,react,git,github,docker,visualstudio,vscode&perline=7" alt="Technology stack" />
 
-<br><br>
+<br />
 
-<img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square"/>
-<img src="https://img.shields.io/badge/SignalR-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core_Identity-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Clean_Architecture-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Onion_Architecture-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/N--Tier_Architecture-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/CQRS_Pattern-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/MediatR-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOLID_Principles-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Repository_Pattern-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Unit_of_Work-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/AutoMapper-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/FluentValidation-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/FusionCache-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/REST_API-0D6EFD?style=flat-square" alt="REST API" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/SignalR-0078D4?style=flat-square" alt="SignalR" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
 
 </div>
 
----
+### Engineering practices
 
-# 📂 Featured Projects
+`Clean Architecture` · `Onion Architecture` · `N-Tier Architecture` · `CQRS` · `MediatR` · `SOLID` · `OOP` · `Repository / Unit of Work` · `AutoMapper` · `FluentValidation` · `Caching` · `Global Exception Handling`
 
-### 💼 Horis Geneve *(Freelance · Private Repository)*
+## Selected projects
 
-Enterprise-grade partnership and investment platform built with **ASP.NET Core Web API**, **Entity Framework Core**, **SQL Server**, and **JWT Authentication**.
+### [E-Commerce](https://github.com/vusal016/E-Commerce)
+An e-commerce backend project where I practise designing domain logic, API endpoints, authentication and data access with the .NET ecosystem.
 
-**Highlights**
+### [MICROSERVICE-PROTO](https://github.com/vusal016/MICROSERVICE-PROTO)
+A current learning project focused on decomposing backend functionality and understanding microservice-oriented system design.
 
-- Role-Based Access Control (RBAC)
-- Multi-level User Hierarchy
-- Tier-based Commission Engine
-- Automated Income Distribution
-- Secure RESTful API Design
+### [FirstAPI](https://github.com/vusal016/FirstAPI)
+A practical ASP.NET Core API project that reflects my ongoing work with endpoints, request handling and backend fundamentals.
 
----
+### [VELITHRA MODULAR](https://github.com/vusal016/VELITHRA_MODULAR)
+A modular management system with HR, courses, inventory, task management and real-time chat capabilities.
 
-### 🏢 VELITHRA
+### [SoftwareVillageTask3](https://github.com/vusal016/SoftwareVillageTask3)
+A streaming-platform API built with Onion Architecture, CQRS, MediatR, JWT authentication, refresh tokens, PostgreSQL and FusionCache.
 
-Modular Management System designed with **Clean Architecture** featuring HR, Courses, Inventory, Task Management, and Real-time Chat.
+### [Onion-SetUp](https://github.com/vusal016/Onion-SetUp)
+A .NET architecture template demonstrating JWT authentication, authorization, auditing, soft delete, automatic migration and data seeding.
 
-**Modules**
+<details>
+<summary><strong>More projects</strong></summary>
 
-- Human Resources (Employee, Department, Leave, Attendance)
-- Courses (Courses, Lessons, Enrollments)
-- Inventory (Items, Categories, Stock)
-- Task Management (Tasks, Comments)
-- Real-time Chat with SignalR
+- [SoftwareVillageTask1](https://github.com/vusal016/SoftwareVillageTask1) — weather API with Clean Architecture and SQL Server
+- [SoftwareVillageTask2](https://github.com/vusal016/SoftwareVillageTask2) — news API with N-Layer Architecture and FusionCache
+- [AuthMVC](https://github.com/vusal016/AuthMVC) — ASP.NET Core MVC application with Identity and role-based authorization
+- [UniversityApp-Clean-Console](https://github.com/vusal016/UniversityApp-Clean-Console) — layered architecture, Repository and Unit of Work practice
+- [Consume-With-Jwt-File-Upload](https://github.com/vusal016/Consume-With-Jwt-File-Upload) — JWT API consumption and file upload handling
 
-**Tech**
+</details>
 
-ASP.NET Core Web API • EF Core • SQL Server • SignalR • JWT • Repository/UoW • AutoMapper • FluentValidation • React • TypeScript
+## Currently learning
 
-🔗 https://github.com/vusal016/VELITHRA_MODULAR
+I am currently strengthening my knowledge in:
 
----
+- Microservices and distributed systems
+- Docker and containerization
+- Azure cloud services
+- RabbitMQ and asynchronous messaging
+- Redis and distributed caching
+- CQRS, event-driven architecture and Saga patterns
+- Testing, observability and production-ready API design
 
-### 🧅 Onion-SetUp
+## Education
 
-Production-ready **Onion Architecture** template demonstrating scalable solution structure, JWT authentication, soft-delete with auditing, automatic migration & seeding, and backend best practices.
+**Code Academy** — Back-End Full Stack Development · *Apr 2025 – Oct 2025*  
+C#, algorithms, OOP, SQL, Entity Framework Core, ASP.NET Core Web API, MVC, REST services, HTML, CSS and JavaScript.
 
-**Features**
+**Lankaran State University** — B.Sc. English Translation · *2019 – 2023*
 
-- JWT Bearer Authentication with Lockout Protection
-- Self-Service Profile Management (Password, Avatar)
-- Admin User Management with Role Assignment
-- Automatic Soft Delete & Audit Trails
-- Global Query Filter for Deleted Records
-- Unified Response Envelope
-- Self-Describing Exception Hierarchy
-- .NET 9 with Modern C#
+## What I value
 
-🔗 https://github.com/vusal016/Onion-SetUp
+- Clear, maintainable code over unnecessary complexity
+- Separation of concerns and testable design
+- Explicit validation and predictable error handling
+- Domain rules that remain protected as the application grows
+- Continuous learning through real projects
 
----
+## Contact
 
-### 🔐 AuthMVC
-
-**ASP.NET Core MVC (.NET 9)** application demonstrating cookie-based authentication with ASP.NET Core Identity, role-based authorization, and isolated Admin Panel.
-
-**Features**
-
-- Cookie-Based Authentication
-- Role-Based Authorization (Admin, User)
-- Admin Panel with Product CRUD
-- User Profile Management
-- Image Upload with GUID Naming
-- Encapsulated Domain Entities
-
-🔗 https://github.com/vusal016/AuthMVC
-
----
-
-### 🎓 University App
-
-Educational project demonstrating software architecture concepts using **.NET 9** with layered architecture.
-
-**Concepts**
-
-- N-Tier Layered Architecture
-- Clean Architecture Principles
-- Generic Repository Pattern
-- Unit of Work Pattern
-- Domain-Driven Design
-- Entity Framework Core
-- Console UI with Menu Navigation
-
-🔗 https://github.com/vusal016/UniversityApp-Clean-Console
-
----
-
-### 📡 Consume With JWT + File Upload
-
-API consumption project demonstrating secure client-server communication with **JWT authentication**, file upload handling, and multi-tier architecture.
-
-**Concepts**
-
-- JWT Token Flow
-- API Consumption with HttpClient
-- File Upload Handling
-- Secure Request/Response Handling
-- REST API Integration
-
-🔗 https://github.com/vusal016/Consume-With-Jwt-File-Upload
-
----
-
-## 🎯 SoftVare Village Internship Tasks
-
-### 🌦️ Task 1: Weather API
-
-RESTful **ASP.NET Core (.NET 9) Weather API** following Clean Architecture principles with repository pattern and comprehensive weather data.
-
-**Features**
-
-- City weather lookup with dashboard data
-- Current weather conditions (temperature, humidity, pressure, UV index)
-- Daily forecasts with weather icons
-- Hourly data with wind speed and precipitation
-- Swagger/OpenAPI documentation
-- Entity Framework Core with SQL Server
-- Response envelope pattern
-
-🔗 https://github.com/vusal016/SoftwareVillageTask1
-
----
-
-### 📰 Task 2: News API
-
-Read-optimized **News API** built with **ASP.NET Core (.NET 9)** using N-Layer Architecture with **FusionCache** for high-performance queries.
-
-**Features**
-
-- Featured/Breaking/Live/Editor's Picks feeds
-- Paginated article listing with tab filtering (latest, think, health)
-- Related articles recommendation engine
-- Article detail view with author bio and engagement stats
-- FusionCache integration (5-minute TTL, stampede protection)
-- 16 purpose-specific record DTOs
-- Rich domain entities with validation
-- Idempotent data seeding (7 categories, 3 authors, 12 articles)
-- CORS pre-configured for frontend development
-
-🔗 https://github.com/vusal016/SoftwareVillageTask2
-
----
-
-### 🍿 Task 3: StreamVibe API
-
-Production-oriented **ASP.NET Core (.NET 10) Web API** built on Onion Architecture with **CQRS + MediatR** for a streaming platform.
-
-**Features**
-
-- Content catalog queries (hero, top-ten, genres, reviews)
-- JWT Bearer authentication with refresh tokens
-- User subscription management with multiple pricing tiers
-- Landing page resources (devices, genres, FAQs, pricing plans)
-- FusionCache integration for query performance
-- PostgreSQL database with EF Core
-- Global exception middleware with semantic HTTP status codes
-- Rich domain entities with private setters and validation
-- CQRS pattern with MediatR for explicit use cases
-
-🔗 https://github.com/vusal016/SoftwareVillageTask3
-
----
-
-# 📚 Currently Learning
-
-- Advanced ASP.NET Core patterns
-- Distributed Systems & Microservices
-- Docker & Containerization
-- Azure Cloud Services
-- RabbitMQ & Message Queuing
-- Redis Caching
-- CQRS & Event Sourcing
-- Saga Pattern for Distributed Transactions
-- Advanced Software Architecture Patterns
-
----
-
-# 🎯 Engineering Principles
-
-- Write clean, readable, and maintainable code.
-- Build software that scales with changing requirements.
-- Prioritize architecture before implementation.
-- Prefer simplicity over unnecessary complexity.
-- Design for testability and separation of concerns.
-- Enforce domain invariants at the entity level.
-- Make errors explicit and handle them gracefully.
-- Continuously improve through learning and real-world practice.
-
----
-
-# 🎓 Education
-
-**Code Academy**  
-**Back-End Full Stack Development** *(Apr 2025 – Oct 2025)*
-
-Focused on C#, Algorithms, OOP, SQL, Entity Framework Core, ASP.NET Core Web API, MVC, RESTful Services, HTML, CSS, JavaScript, and Software Development Fundamentals.
-
-<br>
-
-**Lankaran State University**  
-**B.Sc. English Translation** *(2019 – 2023)*
-
----
-
-# 🤝 Let's Connect
-
-📧 **Email**  
-**mvusal316@gmail.com**
-
-💼 **LinkedIn**  
-**linkedin.com/in/vusalmemmedov**
-
-🐙 **GitHub**  
-**github.com/vusal016**
-
----
+- **Email:** [mvusal316@gmail.com](mailto:mvusal316@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vusalmemmedov](https://www.linkedin.com/in/vusalmemmedov/)
+- **GitHub:** [github.com/vusal016](https://github.com/vusal016)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00C9FF&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:0078D4,100:00C9FF&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
